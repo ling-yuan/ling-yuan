@@ -24,9 +24,13 @@
 <hr/>
 
 <p align="center">
-<!--  -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ling-yuan&theme=transparent&hide_border=true&layout=compact" />
-<!--  -->
+<!-- Waka统计代码时长 -->
+<!-- 来源：https://github.com/anuraghazra/github-readme-stats -->
+<!-- 使用：https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_WAKA_HOMEPAGE_ID} -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=00f2e238-ed2c-483a-b08d-7fcc31041f87&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- 代码使用语言统计 -->
+<!-- 来源：https://github.com/anuraghazra/github-readme-stats -->
+<!-- 来源：https://github-readme-stats.vercel.app/api/top-langs/?username={YOUR_USERNAME} -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ling-yuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 <br/>
