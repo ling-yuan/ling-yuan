@@ -2,7 +2,10 @@
 <!-- 生成打字机图片：https://readme-typing-svg.demolab.com/demo/ -->
 <p align="center">
 <img  align="center" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+</p>
 <hr/>
+
+<p align="center">
 <!-- github统计信息 -->
 <!-- 来源：https://github.com/anuraghazra/github-readme-stats -->
 <!-- 使用：https://github-readme-stats.vercel.app/api?username={YOUR_USERNAME}" -->
@@ -10,21 +13,31 @@
 <!-- 贡献统计 -->
 <!-- 生成：https://streak-stats.demolab.com/demo/ -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=ling-yuan&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+</p>
+
+<p align="center">
 <!-- 贡献图 -->
 <!-- 来源：https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <!-- 使用：https://github-readme-activity-graph.vercel.app/graph?username={YOUR_USERNAME} -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ling-yuan&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
 <hr/>
-<br/>
+
+<p align="center">
 <!--  -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ling-yuan&theme=transparent&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ling-yuan&theme=transparent&hide_border=true&layout=compact" />
 <!--  -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ling-yuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
 <br/>
+
+<p align="center">
 <!-- 技能图标 -->
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,cpp,java,html,css,js,md,latex&theme=light" />
-<br/><br/>
+</p>
+
+<p align="center">
 <!-- 主页地址 -->
 <a href="https://github.com/ling-yuan"><img src="https://img.shields.io/badge/GitHub-ling_yuan-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-572268633-green?logo=tencentqq" />
