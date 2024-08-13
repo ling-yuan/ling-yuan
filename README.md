@@ -8,7 +8,7 @@
     <!-- github统计信息 -->
     <!-- 来源：https://github.com/anuraghazra/github-readme-stats -->
     <!-- 使用：https://github-readme-stats.vercel.app/api?username={YOUR_USERNAME}" -->
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ling-yuan&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&cache_seconds=1800" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ling-yuan&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&cache_seconds=5000" />
     <!-- 贡献统计 -->
     <!-- 生成：https://streak-stats.demolab.com/demo/ -->
     <img align="center" width="400" src="https://streak-stats.demolab.com?user=ling-yuan&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
