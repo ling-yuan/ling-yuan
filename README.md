@@ -49,3 +49,8 @@
 <a href="https://space.bilibili.com/502244058"><img src="https://img.shields.io/badge/哔哩哔哩-白石-pink?logo=bilibili" /></a>
 <img src="https://komarev.com/ghpvc/?username=ling-yuan&abbreviated=true&color=yellow" />
 </p>
+
+<hr/>
+<!-- contribution-grid-snake -->
+<!-- 创建workflow 自动提交到output分支 -->
+![](https://raw.githubusercontent.com/ling-yuan/ling-yuan/output/github-contribution-grid-snake.svg)
