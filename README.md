@@ -1,5 +1,4 @@
 <!-- welcome -->
-
 <p align="center">
     <img  align="center" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
     <hr/>
@@ -33,7 +32,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ling-yuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 
-
 <p align="center">
     <!-- 技能图标 -->
     <!-- https://github.com/tandpfun/skill-icons -->
@@ -51,11 +49,15 @@
     <hr/>
 </p>
 
-
-
-
 <p align="center">
     <!-- contribution-grid-snake -->
     <!-- 创建workflow 自动提交到output分支 -->
-    <img src="https://raw.githubusercontent.com/ling-yuan/ling-yuan/output/github-contribution-grid-snake.svg" />
+	<picture>
+	  <!-- 浅色主题使用此图片 -->
+	  <source srcset="https://raw.githubusercontent.com/ling-yuan/ling-yuan/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)">
+	  <!-- 深色主题使用此图片 -->
+	  <source srcset="https://raw.githubusercontent.com/ling-yuan/ling-yuan/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+	  <!-- 默认图片 -->
+	  <img src="https://raw.githubusercontent.com/ling-yuan/ling-yuan/output/github-contribution-grid-snake.svg">
+	</picture>
 </p>
