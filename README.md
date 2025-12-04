@@ -9,7 +9,7 @@
     <!-- github统计信息 -->
     <!-- 来源：https://github.com/anuraghazra/github-readme-stats -->
     <!-- 使用：https://github-readme-stats.vercel.app/api?username={YOUR_USERNAME}" -->
-    <img align="center" width="400" src="https://github-readme-stats-azure-omega-13.vercel.app/api?username=ling-yuan&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&cache_seconds=29999" />
+    <img align="center" width="400" src="https://github-readme-stats-roan-pi-27.vercel.app/api?username=ling-yuan&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&cache_seconds=29999" />
     <!-- 贡献统计 -->
     <!-- 生成：https://streak-stats.demolab.com/demo/ -->
     <img align="center" width="400" src="https://streak-stats.demolab.com?user=ling-yuan&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
@@ -27,11 +27,11 @@
     <!-- Waka统计代码时长 -->
     <!-- 来源：https://github.com/anuraghazra/github-readme-stats -->
     <!-- 使用：https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_WAKA_HOMEPAGE_ID} -->
-    <img align="center" src="https://github-readme-stats-azure-omega-13.vercel.app/api/wakatime?username=00f2e238-ed2c-483a-b08d-7fcc31041f87&theme=transparent&hide_border=true&layout=compact&langs_count=22&v=2" />
+    <img align="center" src="https://github-readme-stats-roan-pi-27.vercel.app/api/wakatime?username=00f2e238-ed2c-483a-b08d-7fcc31041f87&theme=transparent&hide_border=true&layout=compact&langs_count=22&v=2" />
     <!-- 代码使用语言统计 -->
     <!-- 来源：https://github.com/anuraghazra/github-readme-stats -->
     <!-- 来源：https://github-readme-stats.vercel.app/api/top-langs/?username={YOUR_USERNAME} -->
-    <img align="center" src="https://github-readme-stats-azure-omega-13.vercel.app/api/top-langs/?username=ling-yuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats-roan-pi-27.vercel.app/api/top-langs/?username=ling-yuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 
 
