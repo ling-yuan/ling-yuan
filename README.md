@@ -12,8 +12,9 @@
     <img align="center" width="400" src="https://github-readme-stats-roan-pi-27.vercel.app/api?username=ling-yuan&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&cache_seconds=29999" />
     <!-- 贡献统计 -->
     <!-- 生成：https://streak-stats.demolab.com/demo/ -->
-    <img align="center" width="400" src="https://streak-stats.demolab.com?user=ling-yuan&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+    <img align="center" width="400" src="https://github-readme-streak-stats-rho-snowy.vercel.app?user=ling-yuan&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 </p>
+
 
 
 <p align="center">
@@ -65,3 +66,4 @@
 	  <img src="https://raw.githubusercontent.com/ling-yuan/ling-yuan/output/github-contribution-grid-snake.svg" alt="适配主题的图片">
 	</picture>
 </p>
+
