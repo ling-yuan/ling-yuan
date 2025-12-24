@@ -11,17 +11,17 @@
     <!-- 使用：https://github-readme-stats.vercel.app/api?username={YOUR_USERNAME}" -->
     <img align="center" width="400" src="https://github-readme-stats-roan-pi-27.vercel.app/api?username=ling-yuan&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&cache_seconds=29999" />
     <!-- 贡献统计 -->
+    <!-- 来源：https://github.com/denvercoder1/github-readme-streak-stats -->
     <!-- 生成：https://streak-stats.demolab.com/demo/ -->
     <img align="center" width="400" src="https://github-readme-streak-stats-rho-snowy.vercel.app?user=ling-yuan&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 </p>
-
 
 
 <p align="center">
     <!-- 贡献图 -->
     <!-- 来源：https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <!-- 使用：https://github-readme-activity-graph.vercel.app/graph?username={YOUR_USERNAME} -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ling-yuan&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+    <img width="800" src="https://github-readme-activity-graph-psi-rouge.vercel.app/graph?username=ling-yuan&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
     <hr/>
 </p>
 <p align="center">
@@ -66,4 +66,3 @@
 	  <img src="https://raw.githubusercontent.com/ling-yuan/ling-yuan/output/github-contribution-grid-snake.svg" alt="适配主题的图片">
 	</picture>
 </p>
-
